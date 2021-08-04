@@ -155,3 +155,13 @@ nav a{
 .middletwo p{
     word-wrap: break-word;
 }
+.hero-image {
+    background-image: url('assets/footer_img.jpg');
+    background-repeat: no-repeat;
+    background-attachment: absolute;
+    background-size: cover;
+    height:500px;
+}
+footer{
+    background-color: #F9E7DC;
+}
