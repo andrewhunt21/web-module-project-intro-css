@@ -68,6 +68,7 @@ body{
 h1{
     font-family: 'Chelsea Market', cursive;
     font-size:5rem;
+    padding: 5%;
 }
 section{
     padding: 4% 0;
@@ -117,7 +118,7 @@ nav a{
 }
 .left img{
     width:80%;
-    border-radius:50%;
+    border-radius:50%; 
 }
 .right{
     width:60%;
@@ -125,7 +126,32 @@ nav a{
     top:45%;
 }
 
-/* middle section style */
+/* middle sections style */
 .middleone {
+    width: 90%;
+    margin:auto;
+}
+.middleone div{
+    background: #DDB9A3;
+    margin:0%;
+}
+.middleone p{
+    color: white;
+    margin: 2%;
+}
+.middletwo{
     
+}
+.middletwo div{
+    width: 20%;
+    margin:auto;
+}
+.middletwo img{
+    display: block;
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.middletwo p{
+    word-wrap: break-word;
 }
