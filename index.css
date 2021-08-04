@@ -52,6 +52,7 @@ table {
     padding:0;
     margin:0;
     max-width:100%;
+    /* border: 1px solid gray; */
 }
 
 /* General Styles */
@@ -123,6 +124,18 @@ nav a{
     width:60%;
     position:absolute;
     top:45%;
+}
+.right h1{
+    position:relative;
+    bottom:240px;
+}
+.right h2{
+    position:relative;
+    bottom:200px;
+}
+.right p{
+    position:relative;
+    bottom:150px;
 }
 
 /* middle sections style */
